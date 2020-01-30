@@ -10,6 +10,8 @@
   - Text entries with "Done"-Marker
   - Creation Dialog
 - Finished lists screen
+  - "Archive" of finished tasks (or points)
+  - Additional "Meta-Data": Number of finished Tasks, ...
 - Creating new todo-lists
   - Empty list
   - template list
