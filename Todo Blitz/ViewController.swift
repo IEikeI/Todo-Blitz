@@ -19,7 +19,7 @@ class ViewController: UIViewController {
 
     @IBAction func changeBackground(_ sender: Any) {
         let everySubView = view.subviews
-        var everyUILabel = filteredUiLabels(everySubview: everySubView)
+        let everyUILabel = filteredUiLabels(everySubview: everySubView)
        
         if(darkModeSwitch.isOn) {
             view.backgroundColor = UIColor.darkGray
