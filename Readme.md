@@ -1,11 +1,11 @@
 
-# ToDo-Blitz:
+# Todo-Blitz:
 ### Fast creation, recycling and reviewing of todo-lists
 
 (An exercise to get started with iOS development)
 
 
-Upcomming features:
+### Upcomming features:
 - Current todo-list screen
   - Text entries with "Done"-Marker
   - Creation Dialog
